@@ -1,0 +1,602 @@
+great	great	0
+great	great	0
+frustrated	frustrated	0
+frustrated	frustrated	0
+bitter	bitter	0
+bitter	bitter	0
+true	true	0
+true	true	0
+unusual	unusual	0
+unusual	unusual	0
+necessary	necessary	0
+necessary	necessary	0
+thin	thin	0
+thin	thin	0
+thin	too thin	0
+too thin	thin	0
+bad	bad	0
+bad	bad	0
+good	good	0
+good	good	0
+good	particularly good	0
+particularly good	good	0
+crazy	crazy	0
+crazy	crazy	0
+true	true	0
+true	true	0
+familiar	familiar	0
+familiar	familiar	0
+true	true	0
+true	true	0
+hard	hard	0
+hard	hard	0
+hard	particularly hard	0
+particularly hard	hard	0
+fair	fair	0
+fair	fair	0
+fair	fair	0
+fair	fair	0
+satisfied	satisfied	0
+satisfied	satisfied	0
+good	good	0
+good	good	0
+true	true	0
+true	true	0
+optimistic	optimistic	0
+optimistic	optimistic	0
+aware	aware	0
+aware	aware	0
+aware	always aware	0
+always aware	aware	0
+huge gap	gap	0
+gap	huge gap	0
+broad repercussions	repercussions	0
+repercussions	broad repercussions	0
+quite important	important	0
+important	quite important	0
+significant rain	rain	0
+rain	significant rain	0
+unusual	unusual	0
+unusual	unusual	0
+unusual	very unusual	0
+very unusual	unusual	0
+still	always	0
+always	still	0
+happy	happy	0
+happy	happy	0
+happy	so happy	0
+so happy	happy	0
+nervous	nervous	0
+nervous	nervous	0
+nervous	very nervous	0
+very nervous	nervous	0
+responsible	responsible	0
+responsible	responsible	0
+responsible	absolutely responsible	0
+absolutely responsible	responsible	0
+difficult	difficult	0
+difficult	difficult	0
+difficult	most difficult	0
+most difficult	difficult	0
+optimistic	optimistic	0
+optimistic	optimistic	0
+optimistic	a bit optimistic	0
+a bit optimistic	optimistic	0
+accurate	accurate	0
+accurate	accurate	0
+accurate	absolutely accurate	0
+absolutely accurate	accurate	0
+happy	happy	0
+happy	happy	0
+happy	extremely happy	0
+extremely happy	happy	0
+different	different	0
+different	different	0
+different	clearly different	0
+clearly different	different	0
+true	true	0
+true	true	0
+true	totally true	0
+totally true	true	0
+true	true	0
+true	true	0
+true	exactly true	0
+exactly true	true	0
+related	related	0
+related	related	0
+related	undoubtedly related	0
+undoubtedly related	related	0
+powerful	powerful	0
+powerful	powerful	0
+powerful	quite powerful	0
+quite powerful	powerful	0
+highly	very	0
+very	highly	0
+correct	correct	0
+correct	correct	0
+correct	basically correct	0
+basically correct	correct	0
+surprised	surprised	0
+surprised	surprised	0
+surprised	a little bit surprised	0
+a little bit surprised	surprised	0
+strong	strong	0
+strong	strong	0
+strong	pretty strong	0
+pretty strong	strong	0
+good	good	0
+good	good	0
+good	absolutely good	0
+absolutely good	good	0
+too thin	thin	0
+thin	too thin	0
+open	open	0
+open	open	0
+open	very open	0
+very open	open	0
+close	close	0
+close	close	0
+close	very, very close	0
+very, very close	close	0
+fair	fair	0
+fair	fair	0
+fair	very fair	0
+very fair	fair	0
+possible	possible	0
+possible	possible	0
+possible	very possible	0
+very possible	possible	0
+hard	hard	0
+hard	hard	0
+hard	very hard	0
+very hard	hard	0
+correct	correct	0
+correct	correct	0
+correct	basically correct	0
+basically correct	correct	0
+optimistic	optimistic	0
+optimistic	optimistic	0
+optimistic	very optimistic	0
+very optimistic	optimistic	0
+optimistic	optimistic	0
+optimistic	optimistic	0
+optimistic	much more optimistic	0
+much more optimistic	optimistic	0
+right	right	0
+right	right	0
+right	absolutely right	0
+absolutely right	right	0
+true	true	0
+true	true	0
+true	absolutely true	0
+absolutely true	true	0
+true	true	0
+true	true	0
+true	pretty much true	0
+pretty much true	true	0
+right	right	0
+right	right	0
+right	exactly right	0
+exactly right	right	0
+interesting	interesting	0
+interesting	interesting	0
+interesting	more than interesting	0
+more than interesting	interesting	0
+wrong	wrong	0
+wrong	wrong	0
+wrong	drastically wrong	0
+drastically wrong	wrong	0
+different	different	0
+different	different	0
+different	quite different	0
+quite different	different	0
+better	better	0
+better	better	0
+better	gradually better	0
+gradually better	better	0
+similar	similar	0
+similar	similar	0
+similar	very similar	0
+very similar	similar	0
+true	true	0
+true	true	0
+true	absolutely true	0
+absolutely true	true	0
+optimistic	optimistic	0
+optimistic	optimistic	0
+optimistic	extraordinarily optimistic	0
+extraordinarily optimistic	optimistic	0
+fair	as fair as you can get	0
+as fair as you can get	fair	0
+good	good	0
+good	good	0
+good	perfectly good	0
+perfectly good	good	0
+quite	very	0
+very	quite	0
+worth	worth	0
+worth	worth	0
+worth	definitely worth	0
+definitely worth	worth	0
+happy	happy	0
+happy	happy	0
+happy	more happy	0
+more happy	happy	0
+good	good	0
+good	good	0
+good	pretty good	0
+pretty good	good	0
+unusual	unusual	0
+unusual	unusual	0
+unusual	highly unusual	0
+highly unusual	unusual	0
+significant	some	0
+some	significant	0
+unusual	unusual	0
+unusual	unusual	0
+unusual	a little bit unusual	0
+a little bit unusual	unusual	0
+optimistic	optimistic	0
+optimistic	optimistic	0
+optimistic	very optimistic	0
+very optimistic	optimistic	0
+deliberate	deliberate	0
+deliberate	deliberate	0
+deliberate	half deliberate	0
+half deliberate	deliberate	0
+confident	sure	0
+sure	confident	0
+confident	so sure	0
+so sure	confident	0
+good	ok	0
+ok	good	0
+right	wrong	0
+wrong	right	0
+right	very, very wrong	0
+very, very wrong	right	0
+happy	delighted	0
+delighted	happy	0
+good	positive	0
+positive	good	0
+clear	forthright	0
+forthright	clear	0
+angry	disappointed	0
+disappointed	angry	0
+good	positive	0
+positive	good	0
+good	very positive	0
+very positive	good	0
+true	true	0
+true	true	0
+true	totally true	0
+totally true	true	0
+good	terrific	0
+terrific	good	0
+right	correct	0
+correct	right	0
+good	great	0
+great	good	0
+true	extraordinary	0
+extraordinary	true	0
+true	extra extraordinary	0
+extra extraordinary	true	0
+true	preposterous	0
+preposterous	true	0
+true	extra preposterous	0
+extra preposterous	true	0
+secret	private	0
+private	secret	0
+good	great	0
+great	good	0
+right	wrong	0
+wrong	right	0
+nice	beautiful	0
+beautiful	nice	0
+confident	comfortable	0
+comfortable	confident	0
+confident	very comfortable	0
+very comfortable	confident	0
+happy	great	0
+great	happy	0
+hard	difficult	0
+difficult	hard	0
+impossible	possible	0
+possible	impossible	0
+impossible	certainly possible	0
+certainly possible	impossible	0
+all right	fine	0
+fine	all right	0
+correct	true	0
+true	correct	0
+correct	absolutely true	0
+absolutely true	correct	0
+optimistic	wise	0
+wise	optimistic	0
+optimistic	hopeful	0
+hopeful	optimistic	0
+optimistic	very hopeful	0
+very hopeful	optimistic	0
+sufficient	significant	0
+significant	sufficient	0
+sufficient	very significant	0
+very significant	sufficient	0
+qualified	young	0
+young	qualified	0
+ready	young	0
+young	ready	0
+good	exclusive	0
+exclusive	good	0
+ready	looking forward	0
+looking forward	ready	0
+comparable	difficult	0
+difficult	comparable	0
+comparable	more difficult	0
+more difficult	comparable	0
+comparable	complex	0
+complex	comparable	0
+comparable	more complex	0
+more complex	comparable	0
+effective	best	0
+best	effective	0
+strong	best	0
+best	strong	0
+enough to be leader	ready	0
+ready	enough to be leader	0
+strange	weird	0
+weird	strange	0
+necessary	vital	0
+vital	necessary	0
+able	confident	0
+confident	able	0
+satisfied	encouraged	0
+encouraged	satisfied	0
+dramatic	significant	0
+significant	dramatic	0
+scared	safe	0
+safe	scared	0
+scared	incredibly safe	0
+incredibly safe	scared	0
+calm	quiet	0
+quiet	calm	0
+worth	funny	0
+funny	worth	0
+worth	really really funny	0
+really really funny	worth	0
+correct	true	0
+true	correct	0
+confident	optimistic	0
+optimistic	confident	0
+confident	very optimistic	0
+very optimistic	confident	0
+good	great	0
+great	good	0
+good	nice	0
+nice	good	0
+good	very nice	0
+very nice	good	0
+all right	well	0
+well	all right	0
+all right	very well	0
+very well	all right	0
+unusual	difficult	0
+difficult	unusual	0
+unusual	quite difficult	0
+quite difficult	unusual	0
+good	terrible	0
+terrible	good	0
+significant	big	0
+big	significant	0
+determining	big	0
+big	determining	0
+right	better	0
+better	right	0
+right	a lot better	0
+a lot better	right	0
+great	perfect	0
+perfect	great	0
+fair	fair	0
+fair	fair	0
+fair	totally fair	0
+totally fair	fair	0
+big	huge	0
+huge	big	0
+big	mid-range	0
+mid-range	big	0
+wise	appropriate	0
+appropriate	wise	0
+hypocritical	interesting	0
+interesting	hypocritical	0
+successful	tremendous	0
+tremendous	successful	0
+in trouble	panicking	0
+panicking	in trouble	0
+comfortable	ok	0
+ok	comfortable	0
+flexible	flexible	0
+flexible	flexible	0
+flexible	utterly flexible	0
+utterly flexible	flexible	0
+good	solid	0
+solid	good	0
+ready	premature	0
+premature	ready	0
+encouraged	optimistic	0
+optimistic	encouraged	0
+encouraged	so optimistic	0
+so optimistic	encouraged	0
+large	medium-sized	0
+medium-sized	large	0
+right	accurate	0
+accurate	right	0
+right	more accurate	0
+more accurate	right	0
+huge	huge	0
+huge	huge	0
+huge	absolutely huge	0
+absolutely huge	huge	0
+correct	true	0
+true	correct	0
+good	better than nothing	0
+better than nothing	good	0
+good	excellent	0
+excellent	good	0
+little	small	0
+small	little	0
+good	wonderful	0
+wonderful	good	0
+good	great	0
+great	good	0
+correct	right	0
+right	correct	0
+little	substantial	0
+substantial	little	0
+optimistic	worried	0
+worried	optimistic	0
+optimistic	very, very worried	0
+very, very worried	optimistic	0
+quiet	lighter	0
+lighter	quiet	0
+quiet	certainly lighter	0
+certainly lighter	quiet	0
+right	correct	0
+correct	right	0
+wrong	better	0
+better	wrong	0
+accurate	skeptical	0
+skeptical	accurate	0
+accurate	more skeptical	0
+more skeptical	accurate	0
+good	terrific	0
+terrific	good	0
+comfortable	happy	0
+happy	comfortable	0
+acceptable	unprecedented	0
+unprecedented	acceptable	0
+extraordinary	unusual	0
+unusual	extraordinary	0
+extraordinary	very unusual	0
+very unusual	extraordinary	0
+wrong	right	0
+right	wrong	0
+good	fair	0
+fair	good	0
+rich	good	0
+good	rich	0
+rich	pretty good	0
+pretty good	rich	0
+concerned	worried to death	0
+worried to death	concerned	0
+dangerous	provocative	0
+provocative	dangerous	0
+accurate	valid	0
+valid	accurate	0
+possible	impossible	0
+impossible	possible	0
+like	different	0
+different	like	0
+like	very different	0
+very different	like	0
+good	excellent	0
+excellent	good	0
+possible	surprised	0
+surprised	possible	0
+good	great	0
+great	good	0
+good	bad	0
+bad	good	0
+angry	aggravated	0
+aggravated	angry	0
+hard	difficult	0
+difficult	hard	0
+hard	extremely difficult	0
+extremely difficult	hard	0
+different	empowered	0
+empowered	different	0
+necessary	necessary	0
+necessary	necessary	0
+big	major	0
+major	big	0
+confident	nervous	0
+nervous	confident	0
+right	confirmed	0
+confirmed	right	0
+neurotic	wise	0
+wise	neurotic	0
+neurotic	just wise	0
+just wise	neurotic	0
+nice	wonderful	0
+wonderful	nice	0
+nice	beautiful	0
+beautiful	nice	0
+lot	few	0
+few	lot	0
+lot	quite few	0
+quite few	lot	0
+good	better	0
+better	good	0
+good	chauvinistic	0
+chauvinistic	good	0
+good	excellent	0
+excellent	good	0
+fabulous	wonderful	0
+wonderful	fabulous	0
+higher	lowest	0
+lowest	higher	0
+safe	safe	0
+safe	safe	0
+safe	pretty safe	0
+pretty safe	safe	0
+good	hysterical	0
+hysterical	good	0
+acceptable	fair	0
+fair	acceptable	0
+wonderful	nice	0
+nice	wonderful	0
+wonderful	really nice	0
+really nice	wonderful	0
+flat	hilly	0
+hilly	flat	0
+high	down	0
+down	high	0
+good	little	0
+little	good	0
+close	closer	0
+closer	close	0
+excited	excited	0
+excited	excited	0
+excited	very excited	0
+very excited	excited	0
+few	few	0
+few	few	0
+few	quite few	0
+quite few	few	0
+interested	satisfied	0
+satisfied	interested	0
+pretty	beautiful	0
+beautiful	pretty	0
+best	funny	0
+funny	best	0
+best	just funny	0
+just funny	best	0
+humid	awful	0
+awful	humid	0
+contemplating	fantasizing	0
+fantasizing	contemplating	0
+different	different	0
+different	different	0
+different	probably different	0
+probably different	different	0
+better	better	0
+better	better	0
+better	somewhat better	0
+somewhat better	better	0
+strict	vegan	0
+vegan	strict	0
+lot	few	0
+few	lot	0
+lot	very few	0
+very few	lot	0
+small	bigger	0
+bigger	small	0
+small	much bigger	0
+much bigger	small	0

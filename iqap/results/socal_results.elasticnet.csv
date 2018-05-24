@@ -1,0 +1,206 @@
+hitid,prediction,actual,classification,negation,modQ,modA,score
+2,no,no,negation_cnn.txt,not,great,great,0
+3,no,no,negation_cnn.txt,not at all,frustrated,frustrated,0
+4,no,no,negation_cnn.txt,not,bitter,bitter,0
+5,uncertain,no,negation_cnn.txt,not,true,true,missing jj
+6,no,no,negation_cnn.txt,not,unusual,unusual,0
+7,uncertain,no,negation_cnn.txt,not,necessary,necessary,missing jj
+8,uncertain,no,negation_cnn.txt,neg_context,thin,thin,missing jj
+9,no,no,negation_cnn.txt,not,bad,bad,0
+10,no,no,negation_cnn.txt,not,good,good,0
+11,no,no,negation_cnn.txt,not,crazy,crazy,0
+12,uncertain,no,negation_cnn.txt,not,true,true,missing jj
+13,no,no,negation_cnn.txt,not,familiar,familiar,0
+14,uncertain,no,negation_cnn.txt,not,true,true,missing jj
+15,no,no,negation_cnn.txt,not,hard,hard,0
+16,no,no,negation_cnn.txt,neg_context,fair,fair,0
+17,no,no,negation_cnn.txt,not,fair,fair,0
+18,uncertain,no,negation_cnn.txt,not,satisfied,satisfied,missing jj
+19,no,no,negation_cnn.txt,neg_context,good,good,0
+20,uncertain,no,negation_cnn.txt,absolutely not,true,true,missing jj
+21,no,no,negation_cnn.txt,not,optimistic,optimistic,0
+22,uncertain,no,negation_cnn.txt,not,aware,aware,missing jj
+23,yes,yes,avoided_adjective.txt,,huge,,1
+24,no,yes,avoided_adjective.txt,,broad,,
+25,no,yes,avoided_adjective.txt,,quite,,
+26,yes,yes,avoided_adjective.txt,,significant,,1
+27,yes,yes,adverb_adjectives_cnn.txt,,unusual,unusual,0
+28,uncertain,yes,adverb_adjectives_cnn.txt,,still,always,missing jj
+29,yes,yes,adverb_adjectives_cnn.txt,,happy,happy,0
+30,yes,yes,adverb_adjectives_cnn.txt,,nervous,nervous,0
+31,yes,yes,adverb_adjectives_cnn.txt,,responsible,responsible,0
+32,yes,yes,adverb_adjectives_cnn.txt,,difficult,difficult,0
+33,yes,yes,adverb_adjectives_cnn.txt,,optimistic,optimistic,0
+34,yes,yes,adverb_adjectives_cnn.txt,,accurate,accurate,0
+35,yes,yes,adverb_adjectives_cnn.txt,,happy,happy,0
+36,uncertain,yes,adverb_adjectives_cnn.txt,,different,different,missing jj
+37,uncertain,yes,adverb_adjectives_cnn.txt,,true,true,missing jj
+38,uncertain,yes,adverb_adjectives_cnn.txt,,true,true,missing jj
+39,uncertain,yes,adverb_adjectives_cnn.txt,,related,related,missing jj
+40,yes,yes,adverb_adjectives_cnn.txt,,powerful,powerful,0
+41,uncertain,yes,adverb_adjectives_cnn.txt,,highly,very,missing jj
+42,yes,yes,adverb_adjectives_cnn.txt,,correct,correct,0
+43,uncertain,yes,adverb_adjectives_cnn.txt,,surprised,surprised,missing jj
+44,yes,yes,adverb_adjectives_cnn.txt,,strong,strong,0
+45,yes,yes,adverb_adjectives_cnn.txt,,good,good,0
+46,uncertain,yes,adverb_adjectives_cnn.txt,,too thin,thin,missing jj
+47,uncertain,yes,adverb_adjectives_cnn.txt,,open,open,missing jj
+48,uncertain,yes,adverb_adjectives_cnn.txt,,close,close,missing jj
+49,yes,yes,adverb_adjectives_cnn.txt,,fair,fair,0
+50,yes,yes,adverb_adjectives_cnn.txt,,possible,possible,0
+51,yes,yes,adverb_adjectives_cnn.txt,,hard,hard,0
+52,yes,yes,adverb_adjectives_cnn.txt,,correct,correct,0
+53,yes,yes,adverb_adjectives_cnn.txt,,optimistic,optimistic,0
+54,yes,yes,adverb_adjectives_cnn.txt,,optimistic,optimistic,0
+55,yes,yes,adverb_adjectives_cnn.txt,,right,right,0
+56,uncertain,yes,adverb_adjectives_cnn.txt,,true,true,missing jj
+57,uncertain,yes,adverb_adjectives_cnn.txt,,true,true,missing jj
+58,yes,yes,adverb_adjectives_cnn.txt,,right,right,0
+59,yes,yes,adverb_adjectives_cnn.txt,,interesting,interesting,0
+60,yes,yes,adverb_adjectives_cnn.txt,,wrong,wrong,0
+61,uncertain,yes,adverb_adjectives_cnn.txt,,different,different,missing jj
+62,yes,yes,adverb_adjectives_cnn.txt,,better,better,0
+63,uncertain,yes,adverb_adjectives_cnn.txt,,similar,similar,missing jj
+64,uncertain,yes,adverb_adjectives_cnn.txt,,true,true,missing jj
+65,yes,yes,adverb_adjectives_cnn.txt,,optimistic,optimistic,0
+66,uncertain,yes,adverb_adjectives_cnn.txt,,fair,as fair as you can get,missing jj
+67,yes,yes,adverb_adjectives_cnn.txt,,good,good,0
+68,uncertain,yes,adverb_adjectives_cnn.txt,,quite,very,missing jj
+69,yes,yes,adverb_adjectives_cnn.txt,,worth,worth,0
+70,yes,yes,adverb_adjectives_cnn.txt,,happy,happy,0
+71,yes,yes,adverb_adjectives_cnn.txt,,good,good,0
+72,yes,yes,adverb_adjectives_cnn.txt,,unusual,unusual,0
+73,uncertain,yes,adverb_adjectives_cnn.txt,,significant,some,missing jj
+74,yes,yes,adverb_adjectives_cnn.txt,,unusual,unusual,0
+75,yes,yes,adverb_adjectives_cnn.txt,,optimistic,optimistic,0
+76,uncertain,yes,adverb_adjectives_cnn.txt,,deliberate,deliberate,missing jj
+77,yes,no,adjectives_cnn.txt,not,confident,sure,True
+78,no,yes,adjectives_cnn.txt,,good,ok,True
+79,no,no,adjectives_cnn.txt,,right,wrong,-1000
+80,yes,yes,adjectives_cnn.txt,,happy,delighted,0
+81,yes,yes,adjectives_cnn.txt,,good,positive,0
+82,uncertain,no,adjectives_cnn.txt,,clear,forthright,missing jj
+83,uncertain,yes,adjectives_cnn.txt,,angry,disappointed,missing jj
+84,yes,yes,adjectives_cnn.txt,,good,positive,0
+85,uncertain,no,adjectives_cnn.txt,UN- prefix,true,true,missing jj
+86,yes,yes,adjectives_cnn.txt,,good,terrific,2
+87,yes,yes,adjectives_cnn.txt,,right,correct,2
+88,yes,yes,adjectives_cnn.txt,,good,great,1
+89,uncertain,no,adjectives_cnn.txt,,true,extraordinary,missing jj
+90,uncertain,yes,adjectives_cnn.txt,,secret,private,missing jj
+91,yes,yes,adjectives_cnn.txt,,good,great,1
+92,no,no,adjectives_cnn.txt,,right,wrong,-1000
+93,yes,yes,adjectives_cnn.txt,,nice,beautiful,2
+94,yes,yes,adjectives_cnn.txt,,confident,comfortable,0
+95,yes,yes,adjectives_cnn.txt,,happy,great,0
+96,yes,yes,adjectives_cnn.txt,,hard,difficult,1
+97,no,no,adjectives_cnn.txt,,impossible,possible,-1000
+98,uncertain,yes,adjectives_cnn.txt,,all right,fine,missing jj
+99,uncertain,no,adjectives_cnn.txt,UN- prefix,correct,true,missing jj
+100,yes,no,adjectives_cnn.txt,,optimistic,wise,1
+101,yes,yes,adjectives_cnn.txt,,optimistic,hopeful,0
+102,yes,yes,adjectives_cnn.txt,,sufficient,significant,0
+103,uncertain,no,adjectives_cnn.txt,,qualified,young,missing jj
+104,no,no,adjectives_cnn.txt,neg_context,good,exclusive,2
+105,uncertain,yes,adjectives_cnn.txt,,ready,looking forward,missing jj
+106,no,no,adjectives_cnn.txt,,comparable,difficult,-1000
+107,yes,yes,adjectives_cnn.txt,,effective,best,4
+108,uncertain,yes,adjectives_cnn.txt,,enough to be leader,ready,missing jj
+109,yes,no,adjectives_cnn.txt,not,strange,weird,True
+110,uncertain,yes,adjectives_cnn.txt,,necessary,vital,missing jj
+111,yes,yes,adjectives_cnn.txt,,able,confident,1
+112,uncertain,yes,adjectives_cnn.txt,,satisfied,encouraged,missing jj
+113,yes,yes,adjectives_cnn.txt,,dramatic,significant,0
+114,no,no,adjectives_cnn.txt,,scared,safe,-1000
+115,no,yes,adjectives_cnn.txt,,calm,quiet,True
+116,yes,yes,adjectives_cnn.txt,,worth,funny,2
+117,uncertain,yes,adjectives_cnn.txt,,correct,true,missing jj
+118,yes,yes,adjectives_cnn.txt,,confident,optimistic,0
+119,yes,yes,adjectives_cnn.txt,,good,great,1
+120,no,yes,adjectives_cnn.txt,,good,nice,True
+121,uncertain,yes,adjectives_cnn.txt,,all right,well,missing jj
+122,no,yes,adjectives_cnn.txt,,unusual,difficult,-1000
+123,no,no,adjectives_cnn.txt,,good,terrible,-1000
+124,yes,yes,adjectives_cnn.txt,,significant,big,0
+125,no,no,adjectives_cnn.txt,,right,better,-1000
+126,yes,yes,adjectives_cnn.txt,,great,perfect,1
+127,no,no,adjectives_cnn.txt,UN- prefix,fair,fair,0
+128,yes,yes,adjectives_cnn.txt,,big,huge,0
+129,no,no,adjectives_cnn.txt,,big,mid-range,-1000
+130,yes,no,adjectives_cnn.txt,neg_context,wise,appropriate,True
+131,no,uncertain,adjectives_cnn.txt,,hypocritical,interesting,-1000
+132,yes,yes,adjectives_cnn.txt,,successful,tremendous,0
+133,uncertain,yes,adjectives_cnn.txt,,in trouble,panicking,missing jj
+134,no,yes,adjectives_cnn.txt,,comfortable,ok,True
+135,no,no,adjectives_cnn.txt,IN- prefix,flexible,flexible,0
+136,no,yes,adjectives_cnn.txt,,good,solid,True
+137,uncertain,no,adjectives_cnn.txt,,ready,premature,missing jj
+138,uncertain,no,adjectives_cnn.txt,not,encouraged,optimistic,missing jj
+139,uncertain,no,adjectives_cnn.txt,,large,medium-sized,missing jj
+140,yes,yes,adjectives_cnn.txt,,right,accurate,2
+141,yes,yes,adjectives_cnn.txt,,huge,huge,0
+142,uncertain,yes,adjectives_cnn.txt,,correct,true,missing jj
+143,uncertain,yes,adjectives_cnn.txt,,good,better than nothing,missing jj
+144,yes,yes,adjectives_cnn.txt,,good,excellent,2
+145,yes,yes,adjectives_cnn.txt,,little,small,0
+146,yes,yes,adjectives_cnn.txt,,good,wonderful,2
+147,yes,yes,adjectives_cnn.txt,,good,great,1
+148,no,yes,adjectives_cnn.txt,,correct,right,True
+149,no,no,adjectives_cnn.txt,,little,substantial,-1000
+150,uncertain,no,adjectives_cnn.txt,,optimistic,worried,missing jj
+151,uncertain,yes,adjectives_cnn.txt,,quiet,lighter,missing jj
+152,yes,yes,adjectives_cnn.txt,,right,correct,2
+153,no,yes,adjectives_cnn.txt,,wrong,better,-1000
+154,no,no,adjectives_cnn.txt,,accurate,skeptical,-1000
+155,yes,yes,adjectives_cnn.txt,,good,terrific,2
+156,yes,yes,adjectives_cnn.txt,,comfortable,happy,2
+157,no,no,adjectives_cnn.txt,not,acceptable,unprecedented,1
+158,no,yes,adjectives_cnn.txt,,extraordinary,unusual,True
+159,no,yes,adjectives_cnn.txt,,wrong,right,-1000
+160,no,yes,adjectives_cnn.txt,,good,fair,True
+161,yes,yes,adjectives_cnn.txt,,rich,good,0
+162,uncertain,yes,adjectives_cnn.txt,,concerned,worried to death,missing jj
+163,uncertain,yes,adjectives_cnn.txt,,dangerous,provocative,missing jj
+164,no,yes,adjectives_cnn.txt,,accurate,valid,True
+165,yes,yes,adjectives_cnn.txt,neg_context,possible,impossible,-1000
+166,uncertain,no,adjectives_cnn.txt,,like,different,missing jj
+167,yes,yes,adjectives_cnn.txt,,good,excellent,2
+168,uncertain,no,adjectives_cnn.txt,,possible,surprised,missing jj
+169,yes,yes,adjectives_cnn.txt,,good,great,1
+170,yes,yes,adjectives_cnn.txt,not,good,bad,-1000
+171,uncertain,yes,adjectives_cnn.txt,,angry,aggravated,missing jj
+172,yes,yes,adjectives_cnn.txt,,hard,difficult,1
+173,uncertain,yes,adjectives_cnn.txt,,different,empowered,missing jj
+174,uncertain,yes,adjectives_cnn.txt,neg_context,necessary,necessary,missing jj
+175,uncertain,yes,adjectives_cnn.txt,,big,major,missing jj
+176,no,no,adjectives_cnn.txt,,confident,nervous,-1000
+177,uncertain,no,adjectives_cnn.txt,UN- prefix,right,confirmed,missing jj
+178,no,no,adjectives_cnn.txt,,neurotic,wise,-1000
+179,yes,yes,adjectives_dialogact.txt,,nice,wonderful,3
+180,yes,yes,adjectives_dialogact.txt,,nice,beautiful,2
+181,uncertain,yes,adjectives_dialogact.txt,,lot,few,missing jj
+182,no,yes,adjectives_dialogact.txt,,good,better,-1000
+183,uncertain,no,adjectives_dialogact.txt,,good,chauvinistic,missing jj
+184,yes,yes,adjectives_dialogact.txt,,good,excellent,2
+185,yes,yes,adjectives_dialogact.txt,,fabulous,wonderful,0
+186,uncertain,no,adjectives_dialogact.txt,,higher,lowest,missing jj
+187,yes,yes,adverb_adjectives_dialogact.txt,,safe,safe,0
+188,yes,yes,adjectives_dialogact.txt,,good,hysterical,0
+189,yes,yes,adjectives_dialogact.txt,,acceptable,fair,0
+190,no,yes,adjectives_dialogact.txt,,wonderful,nice,True
+191,uncertain,no,adjectives_dialogact.txt,,flat,hilly,missing jj
+192,uncertain,no,adjectives_dialogact.txt,,high,down,missing jj
+193,no,yes,adjectives_dialogact.txt,,good,little,-1000
+194,uncertain,yes,adjectives_dialogact.txt,,close,closer,missing jj
+195,yes,yes,adverb_adjectives_dialogact.txt,,excited,excited,0
+196,uncertain,yes,adverb_adjectives_dialogact.txt,,few,few,missing jj
+197,uncertain,uncertain,adjectives_dialogact.txt,,interested,satisfied,missing jj
+198,yes,yes,adjectives_dialogact.txt,,pretty,beautiful,2
+199,no,yes,adjectives_dialogact.txt,,best,funny,True
+200,yes,yes,adjectives_dialogact.txt,,humid,awful,3
+201,uncertain,yes,adjectives_dialogact.txt,,contemplating,fantasizing,missing jj
+202,uncertain,yes,adverb_adjectives_dialogact.txt,,different,different,missing jj
+203,yes,yes,adverb_adjectives_dialogact.txt,,better,better,0
+204,uncertain,no,adjectives_dialogact.txt,not,strict,vegan,missing jj
+205,uncertain,no,adjectives_dialogact.txt,,lot,few,missing jj
+206,uncertain,yes,adjectives_dialogact.txt,not,small,bigger,missing jj
