@@ -5,7 +5,7 @@ If you use the code or data in this repo, please cite the following paper:
 ```
 @InProceedings{D18-1202,
   author = 	"Cocos, Anne
-		and Wharton, Veronica
+		and Wharton, Skyler
 		and Pavlick, Ellie
 		and Apidianaki, Marianna
 		and Callison-Burch, Chris",
