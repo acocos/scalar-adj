@@ -23,4 +23,5 @@ If you use the code or data in this repo, please cite the following paper:
 
 - The adjective graph that encodes adjectival paraphrases from PPDB of the form (`RB JJ1 <--> JJ2`) is under `jjgraph/`
 - Code for computing a pairwise paraphrase-based intensity score is in `pairpredict/`
-- Code for the downstream tasks of global ordering and indirect question answering are in `globalorder/` and `iqap/` respectively.
+- Code for the downstream tasks of global ordering and indirect question answering are in `globalorder/` and `iqap/` respectively
+- The crowdsourced dataset of adjective scales is in `globalorder/data/crowd/gold_rankings`. Each file contains adjectives belonging to one scale, where they are ranked from least to most intense by line.
