@@ -17,7 +17,7 @@ protobuf==3.5.2.post1
 pycorenlp==0.2.0
 regex==2017.4.5
 scikit-learn==0.19.1
-scipy==1.0.1
+scipy==1.10.0
 six==1.11.0
 spacy==2.0.11
 termcolor==1.1.0
