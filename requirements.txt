@@ -7,7 +7,7 @@ jsonrpclib==0.1.7
 msgpack-numpy==0.4.1
 msgpack-python==0.5.6
 networkx==1.10
-nltk==3.4.5
+nltk==3.6.6
 numpy==1.14.2
 ortools==6.7.4973
 pathlib==1.0.1
